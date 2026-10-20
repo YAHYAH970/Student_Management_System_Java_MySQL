@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System (Java + MySQL)
 
 A beginner-friendly college project with a browser UI, Java Spring Boot REST API, and a relational MySQL database.
@@ -65,3 +66,7 @@ Spring Data JPA generates/updates the tables from entity classes (`spring.jpa.hi
 - `GET/POST /api/results`
 
 All data APIs require an admin session. This is an educational project scaffold; before production use add CSRF protection, login rate limiting, stricter exception handling, audit logs, and a managed secret/password process.
+=======
+# Student_Management_System_Java_MySQL
+A Student Management System built using Java, Spring Boot, MySQL, HTML, CSS, and JavaScript. Includes student records management, an admin dashboard, and a student portal for managing academic information.
+>>>>>>> e8b569e639b2494dd3aa89c5bbe7b2b809440cdb
